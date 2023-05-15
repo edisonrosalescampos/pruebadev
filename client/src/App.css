@@ -1,0 +1,32 @@
+.navbar {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+label {
+	display: inline-block;
+	margin-bottom: .5rem;
+}
+.input-group .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+select {
+    cursor: pointer;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.card-header {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.mr-auto {
+    margin-right: auto;
+}
